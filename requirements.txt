@@ -1,0 +1,6 @@
+wandb
+tensorboard
+gymnasium
+gymnasium[classic_control]
+control
+pandas

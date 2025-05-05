@@ -4,3 +4,4 @@ wandb
 *.pth
 *.jpg
 *.png
+__pycache__
